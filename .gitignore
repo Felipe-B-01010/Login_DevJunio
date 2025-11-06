@@ -1,0 +1,10 @@
+# Ignorar arquivos técnicos
+Relatório Técnico.docx
+Relatório Técnico.pdf
+
+# Ignorar temporários do Windows
+*.tmp
+Thumbs.db
+
+# Ignorar arquivos do editor
+.vscode/
