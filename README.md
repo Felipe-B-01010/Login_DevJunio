@@ -8,7 +8,7 @@ O objetivo é demonstrar a estrutura e o estilo de uma tela de autenticação mo
 ## 🌐 Acesse o projeto online
 
 Você pode visualizar a página diretamente pelo **GitHub Pages**:  
-👉 [Clique aqui para abrir o simulador de login](https://felipe-b-01010.github.io/Pagina-Pessoal/)
+👉 [Clique aqui para abrir o simulador de login]([https://felipe-b-01010.github.io/Pagina-Pessoal/](https://felipe-b-01010.github.io/Login_DevJunio/))
 
 ---
 
